@@ -18,4 +18,3 @@ It will download all required packages and webdrivers automatically based on you
       python3 bot.py
 
 Follow the instructions to get started with generating your own edu mail
-# Edu-Mail-Generator
